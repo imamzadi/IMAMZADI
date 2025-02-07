@@ -1,4 +1,4 @@
-https://img.freepik.com/premium-vector/programming-code-icon-abstract-robot-holding-programming-code-symbol-hand-coding-background_127544-1269.jpg?w=740
+
 👋 Hi, there@imamzadi
 👀 A passionate programmer with a strong interest in developing innovative solutions. I want to strong Command my skills in programming languages and technologies.
 💞️ I am a student of Governor Initiative and learning agentic AI 
