@@ -1,8 +1,7 @@
  
- 👋 Hi, I’m IMAMZADI
-👀 A passionate programmer with a strong interest in developing innovative solutions. I've honed my skills in programming languages and technologies.
-💞️ I am a student of IT and learning agentic AI .
-📫 I'm always eager to collaborate on exciting projects, share knowledge, and learn from others. Let's connect and explore opportunities to work togethe
+👋 Hi, I’m IMAMZADI
+👀 A passionate programmer with a strong interest in developing innovative solutions. I want to strong Command my skills in programming languages and technologies.
+💞️ I am a student of Governor Initiative and learning agentic AI .
 😄 Thanks for visiting my GitHub profile!
 🙌 regards Imamzdi
 
