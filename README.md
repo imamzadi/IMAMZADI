@@ -1,4 +1,11 @@
-## Hi there 👋
+ 
+ 👋 Hi, I’m IMAMZADI
+👀 A passionate programmer with a strong interest in developing innovative solutions. I've honed my skills in programming languages and technologies.
+💞️ I am a student of IT and learning agentic AI .
+📫 I'm always eager to collaborate on exciting projects, share knowledge, and learn from others. Let's connect and explore opportunities to work togethe
+😄 Thanks for visiting my GitHub profile!
+🙌 regards Imamzdi
+
 
 <!--
 **imamzadi/IMAMZADI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
