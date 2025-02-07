@@ -1,5 +1,5 @@
  
-👋 Hi, I’m IMAMZADI
+👋 Hi, there@imamzadi
 👀 A passionate programmer with a strong interest in developing innovative solutions. I want to strong Command my skills in programming languages and technologies.
 💞️ I am a student of Governor Initiative and learning agentic AI .
 😄 Thanks for visiting my GitHub profile!
