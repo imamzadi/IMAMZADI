@@ -3,7 +3,7 @@
 💞️ I’m currently a student of the Governor Initiative, exploring the exciting world of agentic AI.
 😄 Thanks for stopping by my GitHub profile!
 🙌 Best regards, Imamzadi
-😄 Thanks for stopping by my GitHub profile
+
 
 <h1 align="center">Hi 👋, I'm IMAMZADI</h1>
 <h3 align="center">I Am a STUDENT Of Governor Sindh Initiative Artificial Intelligence(GIAIC))</h3>
