@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38935.jpg 
+
 👋 Hi, there@imamzadi
 👀 A passionate programmer with a strong interest in developing innovative solutions. I want to strong Command my skills in programming languages and technologies.
 💞️ I am a student of Governor Initiative and learning agentic AI .
