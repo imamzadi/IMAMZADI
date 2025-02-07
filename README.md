@@ -1,6 +1,6 @@
  Hi, I’m @imamzadi!
-👀 I’m a dedicated programmer with a keen interest in building cutting-edge solutions. My goal is to master a wide range of programming languages and technologies.
-💞️ I’m currently a student of the Governor Initiative, exploring the exciting world of agentic AI.
+ 👀 A passionate coder who loves solving problems through technology. I aim to perfect my programming skills and gain in-depth knowledge of modern technologies.
+💞️ As a student of the Governor Initiative, I’m diving into the fascinating field of agentic AI.
 😄 Thanks for stopping by my GitHub profile!
 🙌 Best regards, Imamzadi
 
