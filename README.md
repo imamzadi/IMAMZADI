@@ -1,9 +1,9 @@
-
-👋 Hi, there@imamzadi
-👀 A passionate programmer with a strong interest in developing innovative solutions. I want to strong Command my skills in programming languages and technologies.
-💞️ I am a student of Governor Initiative and learning agentic AI 
-😄 Thanks for visiting my GitHub profile!
-🙌 regards Imamzdi
+ Hi, I’m @imamzadi!
+👀 I’m a dedicated programmer with a keen interest in building cutting-edge solutions. My goal is to master a wide range of programming languages and technologies.
+💞️ I’m currently a student of the Governor Initiative, exploring the exciting world of agentic AI.
+😄 Thanks for stopping by my GitHub profile!
+🙌 Best regards, Imamzadi
+😄 Thanks for stopping by my GitHub profile
 
 <h1 align="center">Hi 👋, I'm IMAMZADI</h1>
 <h3 align="center">I Am a STUDENT Of Governor Sindh Initiative Artificial Intelligence(GIAIC))</h3>
