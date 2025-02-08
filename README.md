@@ -8,9 +8,8 @@
 
 <h1 align="center">Hi 👋, I'm IMAMZADI</h1>
 <h3 align="center">I Am a STUDENT Of Governor Sindh Initiative Artificial Intelligence (GIAIC) l Intelligence(GIAIC))</h3>
-
+<img align="right" width="400" src="https://thumbs.dreamstime.com/b/young-girl-coding-laptop-ai-robot-assistant-futuristic-technology-innovation-illustration-working-code-android-future-331003786.jpg">
 - I M CURRENTLY LEARNING **PYTHON Language**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imamzadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imamzadi" height="30" width="40" /></a>
