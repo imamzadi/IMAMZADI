@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm IMAMZADI</h1>
 <h3 align="center">I Am a STUDENT Of Governor Sindh Initiative Artificial Intelligence (GIAIC) l Intelligence(GIAIC))</h3>
-<img align="right" width="400" src="https://thumbs.dreamstime.com/b/young-girl-coding-laptop-ai-robot-assistant-futuristic-technology-innovation-illustration-working-code-android-future-331003786.jpg">
+<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/young-girl-coding-laptop-ai-robot-assistant-futuristic-technology-innovation-illustration-working-code-android-future-331003786.jpg">
 - I M CURRENTLY LEARNING **PYTHON Language**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
