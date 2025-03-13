@@ -1,6 +1,6 @@
  <img width="1000" src="github banner.png">
  Hi, I’m @imamzadi!
-- 👀 A passionate coder who loves solving problems through technology. I aim to perfect my programming skills and gain in-depth knowledge of modern technologies.
+-👀 A passionate coder who loves solving problems through technology. I aim to perfect my programming skills and gain in-depth knowledge of modern technologies.
 💞️ As a student of the Governor Initiative, I’m diving into the fascinating field of agentic AI.
 😄 Thanks for stopping by my GitHub profile!
 🙌 Best regards, Imamzadi
